@@ -9,7 +9,7 @@ Freqy is (or will be) a realtime audio visualizer. This project is in its infanc
 ## Progress
 Not much at the moment, still in the "getting things to work" phase of the project.
 ## TODO
-[] Build high-level interfaces for JACK and OPENGL (in progress)
-[] Implement relevant DSP algorithms (DFT with FFT)
-[] Create high-level interfaces for common visualizations (Waveforms, Spectrograms/sonograph, etc.)
-[] Cross platform??
+- [ ] Build high-level interfaces for JACK and OPENGL (in progress)
+- [ ] Implement relevant DSP algorithms (DFT with FFT)
+- [ ] Create high-level interfaces for common visualizations (Waveforms, Spectrograms/sonograph, etc.)
+- [ ] Cross platform??
